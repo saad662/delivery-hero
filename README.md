@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+<!DOCTYPE html>
+<html>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<head>
 
-## Available Scripts
+</head>
 
-In the project directory, you can run:
+<body>
+    <h1>Delivery Hero Website</h1>
 
-### `npm start`
+    <p>Welcome to the <strong>Delivery Hero</strong> website! This is a React-based web application that allows users to explore various food options and place delivery orders. The website is designed to provide a seamless and engaging experience for users looking to satisfy their cravings.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    <h2>Features</h2>
+    <ul>
+        <li>Browse through a wide range of food options.</li>
+        <li>Place delivery orders with just a few clicks.</li>
+        <li>Enjoy smooth animations and transitions powered by Framer Motion.</li>
+        <li>Icons from React Icons library enhance the visual appeal.</li>
+        <li>Seamless navigation with React Router.</li>
+    </ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    <h2>Live Website</h2>
+    <p>Check out the live version of the website: <a href="https://monumental-mermaid-2ee5a4.netlify.app/">Delivery Hero Website</a></p>
 
-### `npm test`
+    <h2>Technologies Used</h2>
+    <ul>
+        <li><strong>React:</strong> The core framework used to build the user interface.</li>
+        <li><strong>React Router:</strong> Facilitates smooth navigation and routing within the app.</li>
+        <li><strong>Firebase:</strong> Integration for backend services such as authentication and data storage.</li>
+        <li><strong>Framer Motion:</strong> Adds delightful animations and transitions to the user interface.</li>
+        <li><strong>Tailwind CSS:</strong> Provides a utility-first CSS framework for styling the website.</li>
+        <li><strong>React Icons:</strong> Offers a variety of icons to enhance visual elements.</li>
+        <li><strong>Testing Library:</strong> Assists in testing components and user interactions.</li>
+        <li><strong>Web Vitals:</strong> Helps measure and optimize website performance.</li>
+    </ul>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    <h2>Getting Started</h2>
+    <ol>
+        <li>Clone this repository to your local machine.</li>
+        <li>Navigate to the project directory using your command-line interface.</li>
+        <li>Run the following command to install the project dependencies:</li>
+    </ol>
+    <pre><code>npm install</code></pre>
+    <ol start="4">
+        <li>After the installation is complete, start the development server:</li>
+    </ol>
+    <pre><code>npm start</code></pre>
+    <p>The website should now be accessible at <code>http://localhost:3000</code>.</p>
 
-### `npm run build`
+    <h2>Scripts</h2>
+    <ul>
+        <li><code>npm start</code>: Start the development server.</li>
+        <li><code>npm build</code>: Build the production-ready application.</li>
+        <li><code>npm test</code>: Run tests using Testing Library and Jest.</li>
+        <li><code>npm eject</code>: Eject from Create React App setup (advanced).</li>
+    </ul>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    <h2>Contributing</h2>
+    <p>We welcome contributions to improve the <strong>Delivery Hero</strong> website. Feel free to create pull requests or report any issues you encounter. Let's make this project even better together!</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    <h2>Authors</h2>
+    <p>[Your Name]</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    <h2>License</h2>
+    <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
-### `npm run eject`
+    <hr>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    <p>We hope you enjoy using the <strong>Delivery Hero</strong> website. If you have any questions or feedback, please don't hesitate to reach out. Happy exploring and happy eating! 🍔🍕🍰</p>
+</body>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</html>
