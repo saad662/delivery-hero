@@ -1,14 +1,18 @@
 <h1>Delivery Hero Website</h1>
-Welcome to the Delivery Hero website! This is a React-based web application that allows users to explore various food options and place delivery orders. The website is designed to provide a seamless and engaging experience for users looking to satisfy their cravings.
 
-Features
-Browse through a wide range of food options.
-Place delivery orders with just a few clicks.
-Enjoy smooth animations and transitions powered by Framer Motion.
-Icons from React Icons library enhance the visual appeal.
-Seamless navigation with React Router.
-Live Website
-Check out the live version of the website: Delivery Hero Website
+<p>Welcome to the <strong>Delivery Hero</strong> website! This is a React-based web application that allows users to explore various food options and place delivery orders. The website is designed to provide a seamless and engaging experience for users looking to satisfy their cravings.</p>
+
+
+ <h2>Features</h2>
+<ul>
+        <li>Browse through a wide range of food options.</li>
+        <li>Place delivery orders with just a few clicks.</li>
+        <li>Enjoy smooth animations and transitions powered by Framer Motion.</li>
+        <li>Icons from React Icons library enhance the visual appeal.</li>
+        <li>Seamless navigation with React Router.</li>
+    </ul>
+ <h2>Live Website</h2>
+    <p>Check out the live version of the website: <a href="https://monumental-mermaid-2ee5a4.netlify.app/">Delivery Hero Website</a></p>
 
 Technologies Used
 React: The core framework used to build the user interface.
